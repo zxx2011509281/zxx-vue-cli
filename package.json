@@ -1,10 +1,10 @@
 {
-  "name": "test-cli-zxx",
-  "version": "1.0.0",
+  "name": "zxx-cli-test",
+  "version": "1.0.1",
   "description": "my first vue-cli",
   "main": "bin/create.js",
   "bin": {
-    "test-create": "./bin/create.js"
+    "my-create": "./bin/create.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
