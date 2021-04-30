@@ -1,6 +1,6 @@
 {
   "name": "zxx-cli-test",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "my first vue-cli",
   "main": "bin/create.js",
   "bin": {
