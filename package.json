@@ -1,0 +1,21 @@
+{
+  "name": "test-cli-zxx",
+  "version": "1.0.0",
+  "description": "my first vue-cli",
+  "main": "bin/create.js",
+  "bin": {
+    "test-create": "./bin/create.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "fs-extra": "^9.1.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.0"
+  }
+}
